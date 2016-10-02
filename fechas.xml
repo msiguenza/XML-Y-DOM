@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="fecha.xsl"?>
+<fechas>
+	<fecha>
+		<dia>1</dia>
+		<mes>7</mes>
+		<anio>1973</anio>
+	</fecha>
+	
+	<fecha>
+		<dia>4</dia>
+		<mes>5</mes>
+		<anio>1989</anio>
+	</fecha>
+	
+	<fecha>
+		<dia>17</dia>
+		<mes>12</mes>
+		<anio>1980</anio>
+	</fecha>
+</fechas>

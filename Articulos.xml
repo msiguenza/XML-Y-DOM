@@ -1,0 +1,28 @@
+<ListaArticulos>
+  <DatosArticulos>
+    <titulo>
+      <string>El empresario feliz</string>
+      <string>La programación como estilo de vida</string>
+      <string>Flor de Papel</string>
+      <string>El fútbol en estado puro</string>
+    </titulo>
+    <descripcion>
+      <string>Creado por Ruiz Mateos</string>
+      <string>Desarrollado por Andrés Sanchez</string>
+      <string>Autora Beatriz Pitroipa</string>
+      <string>Organizado por Tomás Márquez</string>
+    </descripcion>
+    <texto>
+      <string>Texto1</string>
+      <string>Texto2</string>
+      <string>Texto3</string>
+      <string>Texto4</string>
+    </texto>
+    <imagen>
+      <string>Imagen1</string>
+      <string>Imagen2</string>
+      <string>Imagen3</string>
+      <string>Imagen4</string>
+    </imagen>
+  </DatosArticulos>
+</ListaArticulos>
